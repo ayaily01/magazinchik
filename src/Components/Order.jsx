@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { FaGrinTongueWink} from "react-icons/fa";
+import { VscEyeClosed } from "react-icons/vsc";
 
 
 export class Order extends Component {
@@ -9,7 +9,7 @@ export class Order extends Component {
                 <img src = {this.props.item.image} width = {160} height = {160}></img>
                 <p>{this.props.item.title}</p>
                 <b>{this.props.item.price}$</b>
-                <FaGrinTongueWink className = 'delete-cart' onClick={() => {this.props.onDelete(this.props.item.id); this.props.onCount(this.props.item.id)}}/>
+                <VscEyeClosed  className = 'delete-cart' onClick={() => {this.props.onDelete(this.props.item.id); this.props.onCount(this.props.item.id)}}/>
                 <p className = "cunter">x{this.props.item.count}</p> 
             </div>
         )

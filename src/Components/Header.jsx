@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {FaAccessibleIcon} from 'react-icons/fa'
+import { FaOpencart } from "react-icons/fa";
 import Order from './Order'
 
 
@@ -16,7 +16,7 @@ const showOrders = (props) => {
 const showNothing = () => {
     return (
         <div>
-            <h2>There is no bullshit</h2>
+            <h2>Empty box</h2>
         </div>
     )
 }
@@ -28,12 +28,14 @@ export default function Header(props) {
   
     return(
         <header >
-            <div className = "logo"> Shop</div>
+            <div className = "logo"> Shop
+            <iframe src="https://lottie.host/embed/55822f22-4f51-4311-947d-3f3754757aeb/zD3KnT22zf.json"></iframe>
+            </div>
             <ul className = "nav">  
-            <li> <a href ="https://ligushka789.github.io/babybaby-/"> About us</a></li>
-            <li><a href ="https://makaki-yaici.streamlit.app">Streamlit</a> </li>
+            <li> <a href ="https://www.google.kz/?hl=ru"> About us</a></li>
+            <li><a href ="https://www.youtube.com/watch?v=MggAuUUbbJ4">Streamlit</a> </li>
             <li><a href ="https://www.arizona.edu">Arizona</a></li>
-            <li className = {`shopcart ${cartOpen && 'active'}`}><FaAccessibleIcon onClick = {() => setCartOpen(cartOpen=!cartOpen)}/></li>
+            <li className = {`shopcart ${cartOpen && 'active'}`}>< FaOpencart onClick = {() => setCartOpen(cartOpen=!cartOpen)}/></li>
             </ul>
              
                 {cartOpen && (  

@@ -6,27 +6,27 @@ export class Categories extends React.Component {
             categories: [
                 {
                     key:"all",
-                    name:"All of this bullshit"
+                    name:"Everything"
                 },
                 {
-                    key:"Children",
-                    name:"Children"
+                    key:"Coats",
+                    name:"Coats"
                 },
                 {
-                    key:"Drivers",
-                    name:"Drivers"
+                    key:"Sweaters",
+                    name:"Sweaters"
                 },
                 {
-                    key:"Cool guys",
-                    name:"Cool guys"
+                    key:"Jeans",
+                    name:"Jeans"
                 },
                 {
-                    key:"Pacanchiki",
-                    name:"Pacanchiki"
+                    key:"Skirts",
+                    name:"Skirts"
                 },
                 {
-                    key:"Devchonkas for kazakh's pie",
-                    name:"Devchonkas for kazakh's pie"
+                    key:"Bags",
+                    name:"Bags"
                 },
                 
             ]

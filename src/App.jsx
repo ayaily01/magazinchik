@@ -15,190 +15,191 @@
 
           {
             id: 1,
-            title:'Victor',
-            image:'./img/victor.jpg',
-            desc: "Silly boy with stinky foot",
-            category:"Children",
-            price:"10.27",
-            count: "0"
+            title:'RL 888 Alligator',
+            image:'./img/bag1.jpg',
+            hoverImage: './img/bag1hover.jpg',
+            desc: "Ralph Lauren",
+            category:"Bags",
+            price:"14.000"
           },
           {
             id:2,
-            title:'Babayev',
-            image:'./img/babayev.jpg',
-            desc: "Cool chetyrka driver",
-            category:"Drivers",
-            price:"110.37",
-            count: "0"
+            title:'Cable-Knit',
+            image:'./img/sw1.jpg',
+            hoverImage: './img/sw1hover.jpg',
+            desc: "Polo Ralph Lauren",
+            category:"Sweaters",
+            price:"198.00"
             },
             {
               id:3,
-              title:'Gribanov',
-              image:'./img/gribanov.jpg',
-              desc: "Cool mthfckr crz 79 btchz manchik",
-              category:"Cool guys",
-              price:"15.27",
-              count: "0"
+              title:'Xl Straight Jeans',
+              image:'./img/jeans1.jpg',
+              hoverImage: './img/jeans1hover.jpg',
+              desc: "Levi's",
+              category:"Jeans",
+              price:"108.00"
               },
               {
                 id:4,
-                title:'Pavel',
-                image:'./img/pavel.jpg',
-                desc: "English guy",
-                category:"Children",
-                price:"100.45",
-                count: "0"
+                title:'Welington',
+                image:'./img/bag2.jpg',
+                hoverImage: './img/bag2hover.jpg',
+                desc: "Ralph Lauren",
+                category:"Bags",
+                price:"3200.00"
               },
               {
                 id:5,
-                title:'Temirlan',
-                image:'./img/temirlan.jpg',
-                desc: "Instagram prikoli monsterr",
-                category:"Children",
-                price:"105.18",
-                count: "0"
+                title:'Magie bag',
+                image:'./img/bag3.jpg',
+                hoverImage: './img/bag3hover.jpg',
+                desc: "The Coccinelle Magie",
+                category:"Bags",
+                price:"345.00"                
               },
               {
                 id:6,
-                title:'Vlad',
-                image:'./img/vlad.jpg',
-                desc: "Forza gubastik guy",
-                category:"Children",
-                price:"85.18",
-                count: "0"
+                title:'GG Marmont mini',
+                image:'./img/bag4.jpg',
+                hoverImage: './img/bag4hover.jpg',
+                desc: "GUCCI",
+                category:"Bags",
+                price:"20000.00"
+                
               },
               {
               id:7,
-              title:'Miras',
-              image:'./img/miras.jpg',
-              desc: "Shestyorka monstr ubica driver",
-              category:"Drivers",
-              price:"56.29",
-              count: "0"
+              title:'Button mock-neck',
+              image:'./img/sw2.jpg',
+              hoverImage: './img/sw2hover.jpg',
+              desc: "Nautica",
+              category:"Sweaters",
+              price:"25.44"
               },
               {
                 id:8,
-                title:'Ilnur',
-                image:'./img/ilnur.jpg',
-                desc: "Take a look at ma gfrnd mers/lex/hon/japan driver",
-                category:"Drivers",
-                price:"120.89",
-                count: "0"
+                title:'Jersey with Web',
+                image:'./img/sw3.jpg',
+                hoverImage: './img/sw3hover.jpg',
+                desc: "GUCCI",
+                category:"Sweaters",
+                price:"12000.00"
               },
               {
                 id:9,
-                title:'Dias',
-                image:'./img/dias.jpg',
-                desc: "quas alcoholik",
-                category:"Drivers",
-                price:"135.11",
-                count: "0"
+                title:'Cable-Knit V-Neck',
+                image:'./img/sw4.jpg',
+                hoverImage: './img/sw4hover.jpg',
+                desc: "Polo Ralph Lauren",
+                category:"Sweaters",
+                price:"198.00"
               },
               {
                 id:10,
-                title:'Denchik',
-                image:'./img/denchik.jpg',
-                desc: "Boss of the gym, monstryak from Pen'kovo",
-                category:"Cool guys",
-                price:"140.55",
-                count: "0"
+                title:'High-Rise Crop',
+                image:'./img/jeans2.jpg',
+                hoverImage: './img/jean2hover.jpg',
+                desc: "Polo Ralph Lauren",
+                category:"Jeans",
+                price:"268.00"
               },
               {
                 id:11,
-                title:'Semenuk',
-                image:'./img/semenuk.jpg',
-                desc: "Cool prepod without bazzar",
-                category:"Cool guys",
-                price:"1000.50",
-                count: "0"
+                title:'Mid-rise straight',
+                image:'./img/jeans3.jpg',
+                hoverImage: './img/jeans3hover.jpg',
+                desc: "Nautica",
+                category:"Jeans",
+                price:"55.60"
               },
               {
                 id:12,
-                title:'Denchik Astapenko',
-                image:'./img/astapenko.jpg',
-                desc: "Sleepy manchik beer guy",
-                category:"Pacanchiki",
-                price:"65.54",
-                count: "0"
+                title:'A-line midi skirt',
+                image:'./img/skirt1.jpg',
+                hoverImage: './img/skirt1hover.jpg',
+                desc: "Nautica",
+                category:"Skirts",
+                price:"39.80"
               },
               {
                 id:13,
-                title:'Sanzhik',
-                image:'./img/sanzhik.jpg',
-                desc: "crab stick corn dog guy",
-                category:"Pacanchiki",
-                price:"120.65",
-                count: "0"
+                title:'Knife-Pleated',
+                image:'./img/skirt2.jpg',
+                hoverImage: './img/skirt2hover.jpg',
+                desc: "Polo Ralph Lauren",
+                category:"Skirts",
+                price:"798.00"
               },
               {
                 id:14,
-                title:'Dima',
-                image:'./img/dima.jpg',
-                desc: "Smart guy",
-                category:"Pacanchiki",
-                price:"160.11",
-                count: "0"
+                title:'Embroidered GG',
+                image:'./img/skirt3.jpg',
+                hoverImage: './img/skirt3hover.jpg',
+                desc: "GUCCI",
+                category:"Skirts",
+                price:"27000.00"
               },
               {
                 id:15,
-                title:'Bukirov',
-                image:'./img/bukirov.jpg',
-                desc: "Boss of the gym 2",
-                category:"Cool guys",
-                price:"200.98",
-                count: "0"
+                title:'Xl Straight',
+                image:'./img/jeans4.jpg',
+                hoverImage: './img/jeans4hover.jpg',
+                desc: "Levi's",
+                category:"Jeans",
+                price:"108.00"
               },
               {
                 id:16,
-                title:'Pridurok',
-                image:'./img/pridurok.jpg',
-                desc: "Pridurok na 40 camry why did you stop in that day?",
-                category:"Drivers",
-                price:"1.13",
-                count: "0"
+                title:'Jersey hooded',
+                image:'./img/sw5.jpg',
+                hoverImage: './img/sw5hover.jpg',
+                desc: "GUCCI",
+                category:"Sweaters",
+                price:"25000.00"
               },
               {id:17,
-              title:'Artyom',
-              image:'./img/artyom.jpg',
-              desc: "Funny baby bibls gibls beer guy",
-              category:"Children",
-              price:"110.37",
-              count: "0"
+              title:'2day Signature Large',
+              image:'./img/bag5.jpg',
+              hoverImage: './img/bag5hover.jpg',
+              desc: "Coccinelle",
+              category:"Bags",
+              price:"435.00"
               },
               { id:18,
-                title:'Maksoid',
-                image:'./img/maksoid.jpg',
-                desc: "Tapchik in a head, my mama is ded(i mean dedushka)",
-                category:"Pacanchiki",
-                price:"167.37",
-                count: "0"
+                title:'Icon Skirt',
+                image:'./img/skirt4.jpg',
+                hoverImage: './img/skirt4hover.jpg',
+                desc: "Levi's",
+                category:"Skirts",
+                price:"69.50"
                 },
                 {
                   id:19,
-                  title:'Dasha',
-                  image:'./img/dasha.jpg',
-                  desc: "Diasik's Dashonka",
-                  category:"Devchonkas for kazakh's pie",
-                  price:"0.05",
-                  count: "0"
+                  title:'Puffer jacket',
+                  image:'./img/coat1.jpg',
+                  hoverImage: './img/coat1hover.jpg',
+                  desc: "Nautica",
+                  category:"Coats",
+                  price:"49.99"
                 },
                 {
                   id:20,
-                  title:'Girls from Lenina',
-                  image:'./img/girls.jpg',
-                  desc: "mmm babes babes come on to our tusovka, that will be great party girls",
-                  category:"Devchonkas for kazakh's pie",
-                  price:"110.37",
-                  count: "0"
+                  title:'Velvet-Topcolla',
+                  image:'./img/coat2.jpg',
+                  hoverImage: './img/coat2hover.jpg',
+                  desc: "Polo Ralph Lauren",
+                  category:"Coats",
+                  price:"898.00"
                 },
                 {
                   id:21,
-                  title:'None',
-                  image:'./img/none.jpg',
-                  desc: "so, nobody from female part of the planet came to our cool mtchfkr party so lets just drink and watch some movies :)",
-                  category:"Devchonkas for kazakh's pie",
-                  price:"5000.55",
-                  count: "0"
+                  title:'Floral crêpe',
+                  image:'./img/coat3.jpg',
+                  hoverImage: './img/coat3hover.jpg',
+                  desc: "GUCCI",
+                  category:"Coats",
+                  price:"30000.00"
                 },
      
       ]
@@ -207,7 +208,7 @@
     this.addToOrder = this.addToOrder.bind(this)
     this.deleteOrder = this.deleteOrder.bind(this)
     this.chooseCategory = this.chooseCategory.bind(this)
-    this.incrementCount = this.incrementCount.bind(this)
+    
   }
   render(props)
    {
@@ -223,18 +224,6 @@
     )
   }
 
-  ////////////////////////////////
-
-  incrementCount = (id) => {
-    this.setState((prevState) => ({
-        items: prevState.orders.map(item => 
-            item.id === id ? { ...item, count: item.count + 1 } : item
-        )
-    }));
-}
-
-
-  ///////////////////////////////
 
   deleteOrder(id) {
     this.setState({ orders: this.state.orders.filter(el =>

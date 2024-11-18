@@ -8,11 +8,6 @@ export class Item extends Component {
         };
     }
 
-    increase = () => {
-        this.setState(prevState => ({
-            current: prevState.current + 1
-        }));
-    }
 
     render() {
         return (
@@ -22,7 +17,7 @@ export class Item extends Component {
                 <p> {this.props.item.title}</p>
                 <p> {this.props.item.desc}</p>
                 <b> {this.props.item.price}</b>
-                <div className='add-to-cart' onClick= {()=>{this.props.item.count = this.state.current; this.increase(); this.props.onAdd(this.props.item)}}>+</div>
+                <div className='add-to-cart' onClick= {()=>{this.props.item.count = this.state.current; this.props.onAdd(this.props.item)}}>+</div>
            </div>
         )
     }
