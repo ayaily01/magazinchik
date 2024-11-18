@@ -33,7 +33,7 @@ export default function Header(props) {
             </div>
             <ul className = "nav">  
             <li> <a href ="https://ayaily01.github.io/vizitochka/"> About us</a></li>
-            <li><a href ="https://aya-salam.streamlit.app/">Streamlit</a> </li>
+            <li><a href ="https://aya-salam.streamlit.app/">Streamlitr</a> </li>
             <li><a href ="https://www.arizona.edu">Arizona</a></li>
             <li className = {`shopcart ${cartOpen && 'active'}`}>< FaOpencart onClick = {() => setCartOpen(cartOpen=!cartOpen)}/></li>
             </ul>
