@@ -107,7 +107,7 @@ header .basket .item img:hover {
   box-shadow: 10px 1px 10px -7px lightgrey;
   border: 2px lightgrey;
   transition: 0.7s ease; 
-  content:url('./img/sobaka.jpg');
+  content:url('./public/img/sobaka.jpg');
 }
 
 header .basket .item .delete-cart {
@@ -202,7 +202,7 @@ main .Item img {
 
 main .Item img:hover {
   
-  content:url('./img/semenuk.jpg');
+  content:url('./public/img/semenuk.jpg');
   
 }
 main .Item .add-to-cart {
