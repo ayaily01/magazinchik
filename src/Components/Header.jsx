@@ -32,8 +32,8 @@ export default function Header(props) {
             <iframe src="https://lottie.host/embed/55822f22-4f51-4311-947d-3f3754757aeb/zD3KnT22zf.json"></iframe>
             </div>
             <ul className = "nav">  
-            <li> <a href ="https://www.google.kz/?hl=ru"> About us</a></li>
-            <li><a href ="https://www.youtube.com/watch?v=MggAuUUbbJ4">Streamlit</a> </li>
+            <li> <a href ="https://ayaily01.github.io/vizitochka/"> About us</a></li>
+            <li><a href ="https://aya-salam.streamlit.app/">Streamlit</a> </li>
             <li><a href ="https://www.arizona.edu">Arizona</a></li>
             <li className = {`shopcart ${cartOpen && 'active'}`}>< FaOpencart onClick = {() => setCartOpen(cartOpen=!cartOpen)}/></li>
             </ul>
